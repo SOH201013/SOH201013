@@ -1,5 +1,3 @@
-<img align="left" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
-
 - 👋 Hi, I’m @SOH201013
 - 👀 I’m interested in learning to program with free online courses or with Youtube videos.
 - 🌱 I’m currently learning HTML, CSS and JavaScript
